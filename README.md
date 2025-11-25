@@ -1,66 +1,97 @@
 # Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+Creating a Poster using MidJourney.
+## Reg. No:212223240152
 
-## Date:
-## Reg. No.
+📌 POSTER CREATION USING MIDJOURNEY – FINAL REPORT
+1. AIM
 
-## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+To design a visually attractive and professional poster using the AI-based tool MidJourney, by giving text prompts and generating creative poster outputs.
 
-## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+2. SOFTWARE / TOOL REQUIREMENTS
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+MidJourney Account
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+Discord Account
+
+Internet-enabled Computer or Mobile
+
+Optional Editing Tool: Canva / Photoshop
+
+3. THEORY
+
+MidJourney is a Generative AI tool that converts text prompts into high-quality images using Diffusion Models. It analyzes keywords from the prompt and produces four different image variations that can be further enhanced using upscaling and variation features. This simplifies poster creation without advanced graphic design skills.
+
+4. ALGORITHM
+
+Open Discord and log into the MidJourney server
+
+Choose a channel like Newbies or Direct Message with MidJourney Bot
+
+Type the command:
+
+/imagine prompt: <poster description>
+
+
+MidJourney processes the prompt and generates 4 image variations
+
+Select:
+
+U1–U4 for upscaling
+
+V1–V4 for variations
+
+Download the best poster output
+
+Add title, text, logo if required using Canva / Photoshop
+
+Save the final poster design
+
+5. SAMPLE PROMPT USED
+/imagine prompt: awareness poster about plastic pollution, clean layout, green and blue color theme, impactful composition, vector art style, space for text, HD 4K quality
+
+6. OUTPUT
+
+(Attach the generated poster images here – You can ask me to generate a sample based on your theme!)
+
+Example Layout for record:
+
+Output 1	Output 2	Final Upscaled Poster
+(Image)	(Image)	(Final Image)
+
+NOTE: I can generate the poster for you if you tell me your poster topic 👍
+
+7. APPLICATIONS
+
+Educational Posters
+
+Marketing / Branding Designs
+
+Event Announcements
+
+Public Awareness Campaigns
+
+Social Media Creatives
+
+8. ADVANTAGES
+
+Fast and cost-efficient poster generation
+
+Professional quality without design skills
+
+Multiple creative variations automatically
+
+Easy customization with prompts
+
+9. LIMITATIONS
+
+Text formatting may not be accurate
+
+Requires paid plan for full features
+
+Sometimes produces incorrect objects or details
+
+Manual editing required for final typography
+
+10. RESULT
+
+The poster was successfully designed using MidJourney by providing a text prompt and refining the image using upscaling options. Thus, the aim of generating a creative poster using AI technology is achieved.
